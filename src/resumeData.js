@@ -26,7 +26,7 @@ let resumeData = {
         "className":"fa fa-skype"
       }
     ],
-  "aboutme":"I am an undergraduate of Computer Science and Engineering at OAU, and have been working as a software developer for past few years. I love solving problems with my computer. I always Talk is cheap. ...when you don't create things, you become defined by your tastes rather than ability... Writing code to scale is always being my objective, i always code as if the guy who ends up maintaining my code will be a violent psychopath who knows where i live",
+  "aboutme":"I am an undergraduate of Computer Science and Engineering at OAU, and have been working as a software developer for past few years. I love solving problems with my computer. Talk is cheap ...when you don't create things, you become defined by your tastes rather than ability... Writing code to scale is always being my objective, i always code as if the guy who ends up maintaining my code will be a violent psychopath who knows where i live",
   "address":"Obafemi Awolowo University, Ile-Ife, Osun Stata, Nigeria",
   "website":"https://www.abassmakinde.com",
   "education":[
@@ -53,11 +53,11 @@ let resumeData = {
   "skills":[
     {
       "id":1,
-      "skillname":"Android native"
+      "skillname":"Android"
     },
     {
       "id":2,
-      "skillname":"Node.js"
+      "skillname":"Nodejs"
     },
     {
       "id":3,
@@ -65,8 +65,25 @@ let resumeData = {
     },
     {
       "id":4,
-      "skillname":"Core Javascript"
-    }
+      "skillname":"Javascript"
+    },
+    {
+      "id":5,
+      "skillname":"Java"
+    },
+    {
+      "id":6,
+      "skillname":"Python"
+    },
+    {
+      "id":7,
+      "skillname":"Databases"
+    },
+    {
+      "id":8,
+      "skillname":"Clouds"
+    },
+    
   ],
   "portfolio":[
     {
