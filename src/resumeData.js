@@ -2,9 +2,10 @@ let resumeData = {
   "imagebaseurl":"https://techonoeticsclub.github.io/",
   "name": "Abass Makinde",
   "role": "Software Developer",
-  "linkedinId":"abass-makinde-889458170",
+  "linkedinId":"https://www.linkedin.com/in/abass-makinde-889458170",
   "email":"abs4real16.ma@gmail.com",
   "skypeid": "Your skypeid",
+  "message": "Feel free to contact me for any freelance work, any serious employment. sweet project or suggestions via the email adrress or phone numbers below",
   "roleDescription": "I like dabbling in various parts of software development and like to learn about new technologies, write technical articles or simply play games in my free time. I also like spreading coding and tech evangelism, that is, i find it very easy to teach how to code and love solving well defined problems.",
   "socialLinks":[
       {
@@ -28,7 +29,8 @@ let resumeData = {
     ],
   "aboutme":"I am an undergraduate of Computer Science and Engineering at OAU, and have been working as a software developer for past few years. I love solving problems with my computer. Talk is cheap ...when you don't create things, you become defined by your tastes rather than ability... Writing code to scale is always being my objective, i always code as if the guy who ends up maintaining my code will be a violent psychopath who knows where i live",
   "address":"Obafemi Awolowo University, Ile-Ife, Osun Stata, Nigeria",
-  "website":"https://www.abassmakinde.com",
+  "phones": "2348066441262, 2348174490635",
+  "website":"https://www.abassmakinde.me",
   "education":[
     {
       "id":1,
@@ -53,35 +55,43 @@ let resumeData = {
   "skills":[
     {
       "id":1,
-      "skillname":"Android"
+      "skillname":"Android",
+      "fullSkill": "Android (java)"
     },
     {
       "id":2,
-      "skillname":"Nodejs"
+      "skillname":"Nodejs",
+      "fullSkill": "Node.js (Express, Restify)"
     },
     {
       "id":3,
-      "skillname":"Reactjs"
+      "skillname":"Reactjs",
+      "fullSkill": "React.js"
     },
     {
       "id":4,
-      "skillname":"Javascript"
+      "skillname":"Javascript",
+      "fullSkill": "Javascript"
     },
     {
       "id":5,
-      "skillname":"Java"
+      "skillname":"Java",
+      "fullSkill": "Java"
     },
     {
       "id":6,
-      "skillname":"Python"
+      "skillname":"Python",
+      "fullSkill": "Python (Flask)"
     },
     {
       "id":7,
-      "skillname":"Databases"
+      "skillname":"Databases",
+      "fullSkill": "Databases(ES,Mongodb,Redis)"
     },
     {
       "id":8,
-      "skillname":"Clouds"
+      "skillname":"Clouds",
+      "fullSkill": "Clouds(AWS, Azure)"
     },
     
   ],

@@ -207,9 +207,9 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
-   border-radius: 100%;
+   width: 180px;
+   height: 250px;
+   border-radius: 10%;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
@@ -866,6 +866,13 @@ call-to-action .button {
    color: #EBEEEE;
    margin-bottom: 6px;
 }
+
+#contact h6 {
+   font: 16px/24px, sans-serif;
+   color: rgb(204, 207, 207);
+   margin-bottom: 6px;
+}
+
 #contact p.lead {
    font: 18px/36px 'opensans-light', sans-serif;
    padding-right: 3%;

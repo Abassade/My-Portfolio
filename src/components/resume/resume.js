@@ -80,7 +80,7 @@ export default  class Resume extends Component {
                     return(
                       <li key={item.id}>
                       <span className={`bar-expand ${item.skillname.toLowerCase()}` }>
-                      </span><em>{item.skillname}</em>
+                      </span><em>{item.fullSkill}</em>
                       </li>
                     )
                   })
