@@ -30,7 +30,7 @@ let resumeData = {
   "aboutme":"I am an undergraduate of Computer Science and Engineering at OAU, and have been working as a software developer for past few years. I love solving problems with my computer. Talk is cheap ...when you don't create things, you become defined by your tastes rather than ability... Writing code to scale is always being my objective, i always code as if the guy who ends up maintaining my code will be a violent psychopath who knows where i live",
   "address":"Obafemi Awolowo University, Ile-Ife, Osun Stata, Nigeria",
   "phones": "2348066441262, 2348174490635",
-  "website":"https://www.abassmakinde.me",
+  "website":"https://www.abassmakinde.herokuapp.com",
   "education":[
     {
       "id":1,
